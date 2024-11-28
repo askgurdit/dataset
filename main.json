@@ -1,0 +1,1093 @@
+{
+        "Andhra Pradesh": {
+          "museums": [{
+                "name": "Jawaharlal Nehru Museum",
+                "description": "A museum dedicated to the history and culture of Arunachal Pradesh, featuring tribal artifacts and historical exhibits.",
+                "location": "Itanagar, Arunachal Pradesh",
+                "pincode": "791111"
+        }],
+          "monuments": [],
+          "subtypes": ["History", "Art", "Science"]
+        },
+        "Arunachal Pradesh": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Historical"]
+        },
+        "Assam": {
+          "museums": [{
+                "name": "Assam State Museum",
+                "description": "A museum showcasing the rich cultural heritage of Assam, featuring sculptures, artifacts, and textiles.",
+                "location": "Guwahati, Assam",
+                "pincode": "781014"
+              }
+              ],
+          "monuments": [],
+          "subtypes": ["Art", "History", "Natural Science"]
+        },
+        "Bihar": {
+          "museums": [{
+                "name": "Bihar Museum",
+                "description": "A museum showcasing the rich history, art, and culture of Bihar, featuring exhibits from the Maurya and Gupta empires.",
+                "location": "Patna, Bihar",
+                "pincode": "800004"
+              },
+              {
+                "name": "Patna Museum",
+                "description": "A museum with a collection of ancient sculptures, paintings, and historical artifacts from Bihar's past.",
+                "location": "Patna, Bihar",
+                "pincode": "800001"
+              },
+              {
+                "name": "Nalanda Archaeological Museum",
+                "description": "Displays excavated objects and artifacts from the ancient Nalanda University.",
+                "location": "Nalanda, Bihar",
+                "pincode": "803111"
+              },
+              {
+                "name": "Kumhrar Archaeological Site",
+                "description": "An archaeological site showcasing remnants of the Mauryan era.",
+                "location": "Patna, Bihar",
+                "pincode": "800026"
+              },
+              {
+                "name": "Rajgir Archaeological Museum",
+                "description": "Features relics and artifacts from the ancient city of Rajgir, including Buddhist sculptures.",
+                "location": "Rajgir, Bihar",
+                "pincode": "803116"
+              },
+              {
+                "name": "Munger Museum",
+                "description": "A museum dedicated to the cultural heritage and history of Munger.",
+                "location": "Munger, Bihar",
+                "pincode": "811201"
+              },
+              {
+                "name": "Vikramshila Museum",
+                "description": "Displays historical and archaeological artifacts from the ancient Vikramshila university.",
+                "location": "Bihar Sharif, Bihar",
+                "pincode": "803118"
+              },
+              {
+                "name": "Bodhgaya Museum",
+                "description": "A museum that exhibits artifacts from the Buddhist era and the heritage of Bodhgaya.",
+                "location": "Bodhgaya, Bihar",
+                "pincode": "824231"
+              },
+              {
+                "name": "Bihar State Archives",
+                "description": "A repository of historical manuscripts and documents.",
+                "location": "Patna, Bihar",
+                "pincode": "800001"
+              },
+              {
+                "name": "Chhath Ghats Museum",
+                "description": "A museum dedicated to the cultural significance of the Chhath festival in Bihar.",
+                "location": "Patna, Bihar",
+                "pincode": "800001"
+              }],
+          "monuments": [{
+                "name": "Bodhgaya",
+                "description": "A UNESCO World Heritage site, Bodhgaya is the place where Lord Buddha attained enlightenment. It is home to the Mahabodhi Temple.",
+                "location": "Bodhgaya, Bihar",
+                "pincode": "824231"
+              },
+              {
+                "name": "Nalanda University Ruins",
+                "description": "The ruins of the ancient Nalanda University, an important center of learning in ancient India.",
+                "location": "Nalanda, Bihar",
+                "pincode": "803111"
+              },
+              {
+                "name": "Rajgir",
+                "description": "A historical town known for its Buddhist, Jain, and Hindu shrines, and the famous Rajgir Hot Springs.",
+                "location": "Rajgir, Bihar",
+                "pincode": "803116"
+              },
+              {
+                "name": "Vaishali Stupa",
+                "description": "A monument dedicated to the birthplace of Lord Mahavira, Vaishali is also significant in Buddhist history.",
+                "location": "Vaishali, Bihar",
+                "pincode": "844125"
+              },
+              {
+                "name": "Munger Fort",
+                "description": "A historical fort with remnants from the medieval period, located along the Ganges river.",
+                "location": "Munger, Bihar",
+                "pincode": "811201"
+              },
+              {
+                "name": "Patna Sahib Gurudwara",
+                "description": "A revered Sikh shrine dedicated to Guru Gobind Singh, the 10th Sikh Guru.",
+                "location": "Patna, Bihar",
+                "pincode": "800001"
+              },
+              {
+                "name": "Jalan Museum",
+                "description": "A museum housing a collection of artifacts from the British colonial era and other historical periods.",
+                "location": "Patna, Bihar",
+                "pincode": "800001"
+              },
+              {
+                "name": "Shershah Suri Tomb",
+                "description": "The tomb of Sher Shah Suri, an important ruler from the medieval era, known for his reforms.",
+                "location": "Sasaram, Bihar",
+                "pincode": "821115"
+              },
+              {
+                "name": "Baba Keem Gauri Temple",
+                "description": "A revered Hindu temple dedicated to Lord Shiva, located in Gaya.",
+                "location": "Gaya, Bihar",
+                "pincode": "823001"
+              },
+              {
+                "name": "Kumarakom Buddha Stupa",
+                "description": "A significant Buddhist monument believed to be associated with the ancient town of Kumarakom.",
+                "location": "Bihar Sharif, Bihar",
+                "pincode": "803118"
+              }],
+          "subtypes": ["Archaeological", "History", "Buddhist"]
+        },
+        "Chhattisgarh": {
+          "museums": [{
+                "name": "Chhattisgarh State Museum",
+                "description": "A museum that showcases the rich cultural and historical heritage of Chhattisgarh, including tribal artifacts and sculptures.",
+                "location": "Raipur, Chhattisgarh",
+                "pincode": "492001"
+              },
+              {
+                "name": "Maitri Bagh Museum",
+                "description": "A zoological park with a museum that focuses on the wildlife and environmental conservation efforts of the region.",
+                "location": "Bhilai, Chhattisgarh",
+                "pincode": "490001"
+              },
+              {
+                "name": "Durg District Museum",
+                "description": "Displays a variety of historical and cultural artifacts from the Durg district, including ancient tools and pottery.",
+                "location": "Durg, Chhattisgarh",
+                "pincode": "491001"
+              },
+              {
+                "name": "Sirpur Museum",
+                "description": "A museum dedicated to the archaeological site of Sirpur, which has historical remnants from the early medieval period.",
+                "location": "Sirpur, Chhattisgarh",
+                "pincode": "493888"
+              },
+              {
+                "name": "Chhattisgarh Tribal Museum",
+                "description": "A museum that focuses on the art, culture, and lifestyle of the tribal communities in Chhattisgarh.",
+                "location": "Raipur, Chhattisgarh",
+                "pincode": "492001"
+              },
+              {
+                "name": "Kanker Palace Museum",
+                "description": "A museum within the Kanker Palace, displaying artifacts and relics from the region's royal history.",
+                "location": "Kanker, Chhattisgarh",
+                "pincode": "494334"
+              },
+              {
+                "name": "Khairagarh Museum",
+                "description": "A museum that highlights the rich cultural and artistic heritage of the Khairagarh region.",
+                "location": "Khairagarh, Chhattisgarh",
+                "pincode": "491881"
+              },
+              {
+                "name": "Nehru Museum",
+                "description": "A museum dedicated to the life and contributions of Jawaharlal Nehru, India's first Prime Minister.",
+                "location": "Raipur, Chhattisgarh",
+                "pincode": "492001"
+              },
+              {
+                "name": "Ambikapur Museum",
+                "description": "A local museum that displays the cultural and historical artifacts of the Ambikapur region.",
+                "location": "Ambikapur, Chhattisgarh",
+                "pincode": "497001"
+              },
+              {
+                "name": "Rajnandgaon District Museum",
+                "description": "A museum dedicated to preserving and showcasing the heritage, culture, and art of the Rajnandgaon district.",
+                "location": "Rajnandgaon, Chhattisgarh",
+                "pincode": "491441"
+              },
+              {
+                "name": "Korba Museum",
+                "description": "Displays historical, cultural, and ecological artifacts related to the Korba region.",
+                "location": "Korba, Chhattisgarh",
+                "pincode": "495677"
+              },
+              {
+                "name": "Bilaspur Museum",
+                "description": "Showcases the ancient and medieval history of the Bilaspur region, with a collection of local artifacts and sculptures.",
+                "location": "Bilaspur, Chhattisgarh",
+                "pincode": "495001"
+              },
+              {
+                "name": "Raigarh Museum",
+                "description": "A museum focused on the history, culture, and traditional art of the Raigarh region.",
+                "location": "Raigarh, Chhattisgarh",
+                "pincode": "496001"
+              },
+              {
+                "name": "Jagdalpur Tribal Museum",
+                "description": "A museum highlighting the tribal culture and heritage of the Bastar region.",
+                "location": "Jagdalpur, Chhattisgarh",
+                "pincode": "494001"
+              },
+              {
+                "name": "Pendra Road Museum",
+                "description": "A museum that exhibits the local culture, including tribal and traditional artifacts.",
+                "location": "Pendra Road, Chhattisgarh",
+                "pincode": "495119"
+              },
+              {
+                "name": "Raipur Planetarium",
+                "description": "A science museum that also serves as a planetarium for public education on astronomy and space science.",
+                "location": "Raipur, Chhattisgarh",
+                "pincode": "492001"
+              },
+              {
+                "name": "Sarangarh Museum",
+                "description": "A small museum dedicated to preserving the local cultural history of Sarangarh and nearby areas.",
+                "location": "Sarangarh, Chhattisgarh",
+                "pincode": "495689"
+              },
+              {
+                "name": "Bastar District Museum",
+                "description": "A museum that showcases the art, culture, and history of the Bastar region and its tribal communities.",
+                "location": "Bastar, Chhattisgarh",
+                "pincode": "494001"
+              },
+              {
+                "name": "Chhattisgarh Science Centre",
+                "description": "A science museum that offers interactive exhibits, models, and demonstrations to enhance public knowledge about science and technology.",
+                "location": "Raipur, Chhattisgarh",
+                "pincode": "492001"
+              },
+              {
+                "name": "Raipur Heritage Museum",
+                "description": "This museum displays artifacts and collections reflecting the history and heritage of Raipur city.",
+                "location": "Raipur, Chhattisgarh",
+                "pincode": "492001"
+              }],
+          "monuments": [],
+          "subtypes": ["Tribal", "Cultural", "Historical"]
+        },
+        "Goa": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Art", "History", "Colonial"]
+        },
+        "Gujarat": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["History", "Science", "Cultural"]
+        },
+        "Haryana": {
+          "museums": [{
+                "name": "Kurukshetra Panorama and Science Centre",
+                "description": "Combines science with mythology, featuring exhibits on Mahabharata and interactive scientific displays.",
+                "location": "Kurukshetra, Haryana",
+                "pincode": "136118"
+            },
+            {
+                "name": "National Dairy Research Institute Museum",
+                "description": "Explores the history and advancements in dairy science and technology in India.",
+                "location": "Karnal, Haryana",
+                "pincode": "132001"
+            },
+            {
+                "name": "Sheikh Chilli's Tomb Museum",
+                "description": "A historical museum showcasing artifacts and architecture of the Mughal era.",
+                "location": "Kurukshetra, Haryana",
+                "pincode": "136118"
+            },
+            {
+                "name": "Rewari Heritage Steam Loco Shed and Museum",
+                "description": "India's only heritage steam locomotive museum, showcasing vintage engines and rail artifacts.",
+                "location": "Rewari, Haryana",
+                "pincode": "123401"
+            },
+            {
+                "name": "Panipat Museum",
+                "description": "Highlights the history of the three battles of Panipat with artifacts, paintings, and sculptures.",
+                "location": "Panipat, Haryana",
+                "pincode": "132103"
+            },
+            {
+                "name": "Sultan Singh Museum",
+                "description": "A museum dedicated to the memory of Sultan Singh, a prominent historical figure of Haryana.",
+                "location": "Rohtak, Haryana",
+                "pincode": "124001"
+            },
+            {
+                "name": "Baba Farid's Tomb Museum",
+                "description": "A museum showcasing the life and legacy of Baba Farid, an important Sufi saint.",
+                "location": "Faridabad, Haryana",
+                "pincode": "121001"
+            },
+            {
+                "name": "Baba Shah Muhiuddin Museum",
+                "description": "Displays artifacts related to the life and teachings of Baba Shah Muhiuddin.",
+                "location": "Gurgaon, Haryana",
+                "pincode": "122018"
+            },
+            {
+                "name": "Bhima Devi Temple Complex Museum",
+                "description": "Displays sculptures, temples, and artifacts from the Bhima Devi Temple site, depicting the history of the region.",
+                "location": "Pinjore, Haryana",
+                "pincode": "134102"
+            },
+            {
+                "name": "Raja Nahar Singh Palace Museum",
+                "description": "A heritage museum displaying the lifestyle, culture, and artifacts of the royal family of Nahar Singh.",
+                "location": "Ballabgarh, Haryana",
+                "pincode": "121004"
+            },
+            {
+                "name": "Haryana State Museum",
+                "description": "A museum showcasing the rich cultural heritage and history of Haryana, with artifacts and sculptures.",
+                "location": "Chandigarh, Haryana",
+                "pincode": "160017"
+            },
+            {
+                "name": "Shivaji Park Museum",
+                "description": "A small local museum exhibiting historical artifacts and local culture.",
+                "location": "Ambala, Haryana",
+                "pincode": "134003"
+            },
+            {
+                "name": "Maharaja Agarsen Museum",
+                "description": "A museum dedicated to the historical achievements and legacy of Maharaja Agarsen, a prominent figure of Haryana.",
+                "location": "Hisar, Haryana",
+                "pincode": "125001"
+            },
+            {
+                "name": "Harappan Archaeological Museum",
+                "description": "Focuses on the Indus Valley Civilization with archaeological artifacts from the region.",
+                "location": "Kunal, Haryana",
+                "pincode": "136045"
+            },
+            {
+                "name": "Kailash Rathi Museum",
+                "description": "Dedicated to the history and artifacts of the local area and the contributions of Kailash Rathi.",
+                "location": "Sirsa, Haryana",
+                "pincode": "125055"
+            },
+            {
+                "name": "Mewat Museum",
+                "description": "Displays the cultural history of the Mewat region, including artifacts and local artwork.",
+                "location": "Mewat, Haryana",
+                "pincode": "122107"
+            },
+            {
+                "name": "Anangpur Archaeological Site Museum",
+                "description": "A museum located at the Anangpur Water Reservoir, displaying the history of ancient water management systems.",
+                "location": "Faridabad, Haryana",
+                "pincode": "121002"
+            },
+            {
+                "name": "Haryana Rural Museum",
+                "description": "A museum dedicated to showcasing the rural lifestyle and traditional crafts of Haryana.",
+                "location": "Gurgaon, Haryana",
+                "pincode": "122001"
+            },
+            {
+                "name": "Museum of Haryana's Heritage",
+                "description": "This museum exhibits Haryana's cultural and historical legacy through diverse artifacts and art collections.",
+                "location": "Rohtak, Haryana",
+                "pincode": "124001"
+            },
+            {
+                "name": "Dr. Bhimrao Ambedkar Museum",
+                "description": "A museum dedicated to the life and achievements of Dr. Bhimrao Ambedkar, a key figure in India's social reform.",
+                "location": "Sonipat, Haryana",
+                "pincode": "131001"
+            },
+            {
+                "name": "Dohad Village Museum",
+                "description": "A small local museum showcasing the history and culture of the Dohad village in Haryana.",
+                "location": "Dohad, Haryana",
+                "pincode": "122001"
+            },
+            {
+                "name": "Sarsa Masani Temple Museum",
+                "description": "A museum showcasing religious artifacts and ancient relics from the Sarsa Masani Temple.",
+                "location": "Sarsa, Haryana",
+                "pincode": "134107"
+            },
+            {
+                "name": "Pehowa Museum",
+                "description": "A museum exhibiting artifacts from the ancient town of Pehowa, Haryana.",
+                "location": "Pehowa, Haryana",
+                "pincode": "136128"
+            },
+            {
+                "name": "Farrukhnagar Fort Museum",
+                "description": "A museum located at the Farrukhnagar Fort, showcasing the history and artifacts of the fort.",
+                "location": "Farrukhnagar, Haryana",
+                "pincode": "122506"
+            },
+            {
+                "name": "Madhogarh Fort Museum",
+                "description": "Located within the Madhogarh Fort, this museum displays artifacts from the history of the fort and surrounding region.",
+                "location": "Madhogarh, Haryana",
+                "pincode": "122031"
+            },
+            {
+                "name": "Jat Dharamshala Museum",
+                "description": "A historical museum depicting the history and contributions of the Jat community in Haryana.",
+                "location": "Hissar, Haryana",
+                "pincode": "125001"
+            },
+            {
+                "name": "Haryana Freedom Struggle Museum",
+                "description": "Displays artifacts and historical accounts related to Haryana's role in India's freedom struggle.",
+                "location": "Kurukshetra, Haryana",
+                "pincode": "136118"
+            },
+            {
+                "name": "Sultanpur Bird Sanctuary Museum",
+                "description": "A museum related to the bird sanctuary, exhibiting bird species and conservation efforts.",
+                "location": "Sultanpur, Haryana",
+                "pincode": "122018"
+            },
+            {
+                "name": "Guru Jambheshwar University Museum",
+                "description": "A museum focused on the history and achievements of the Guru Jambheshwar University of Science and Technology.",
+                "location": "Hisar, Haryana",
+                "pincode": "125001"
+            }],
+          "monuments": [],
+          "subtypes": ["Historical", "Cultural"]
+        },
+        "Himachal Pradesh": {
+          "museums": [   {
+                "name": "Himachal State Museum",
+                "description": "Showcases the rich cultural history of Himachal Pradesh, including traditional arts, sculptures, and artifacts.",
+                "location": "Shimla, Himachal Pradesh",
+                "pincode": "171001"
+              },
+              {
+                "name": "Shimla Railway Museum",
+                "description": "Dedicated to the history of the Kalka-Shimla railway line, featuring old trains, equipment, and historical documents.",
+                "location": "Shimla, Himachal Pradesh",
+                "pincode": "171001"
+              },
+              {
+                "name": "Kullu Museum",
+                "description": "Focuses on the history and culture of the Kullu region, including traditional arts and crafts.",
+                "location": "Kullu, Himachal Pradesh",
+                "pincode": "175101"
+              },
+              {
+                "name": "Chamba Museum",
+                "description": "Displays artifacts from the Chamba valley, including Pahari paintings, sculptures, and religious art.",
+                "location": "Chamba, Himachal Pradesh",
+                "pincode": "176310"
+              },
+              {
+                "name": "Archaeological Museum, Dharamshala",
+                "description": "Exhibits artifacts related to the history of Himachal Pradesh, including ancient tools and religious items.",
+                "location": "Dharamshala, Himachal Pradesh",
+                "pincode": "176215"
+              },
+              {
+                "name": "Rewalsar Museum",
+                "description": "Highlights the cultural heritage of Rewalsar, with artifacts from local history and Tibetan Buddhism.",
+                "location": "Rewalsar, Himachal Pradesh",
+                "pincode": "175023"
+              },
+              {
+                "name": "Mandi District Museum",
+                "description": "Displays artifacts related to the cultural and religious history of Mandi and its surrounding areas.",
+                "location": "Mandi, Himachal Pradesh",
+                "pincode": "175001"
+              },
+              {
+                "name": "Solan Museum",
+                "description": "Showcases the history and traditions of the Solan region, including tribal artifacts and handicrafts.",
+                "location": "Solan, Himachal Pradesh",
+                "pincode": "173212"
+              },
+              {
+                "name": "Sundernagar Museum",
+                "description": "Features cultural artifacts and historical items related to the Sundernagar region.",
+                "location": "Sundernagar, Himachal Pradesh",
+                "pincode": "175018"
+              },
+              {
+                "name": "Kangra Art Museum",
+                "description": "Houses the cultural heritage and art of Kangra, including sculptures, paintings, and traditional crafts.",
+                "location": "Dharamshala, Himachal Pradesh",
+                "pincode": "176215"
+              },
+              {
+                "name": "Bhuri Singh Museum",
+                "description": "Displays a large collection of Pahari paintings and artifacts from the Chamba region.",
+                "location": "Chamba, Himachal Pradesh",
+                "pincode": "176310"
+              },
+              {
+                "name": "Bir Tibetan Monastery Museum",
+                "description": "Dedicated to Tibetan Buddhist culture, showcasing artifacts, manuscripts, and religious art.",
+                "location": "Bir, Himachal Pradesh",
+                "pincode": "176077"
+              },
+              {
+                "name": "Jalori Pass Museum",
+                "description": "A museum dedicated to the history and geography of the Jalori Pass and its significance.",
+                "location": "Jalori Pass, Himachal Pradesh",
+                "pincode": "175127"
+              },
+              {
+                "name": "Pin Valley Museum",
+                "description": "Focuses on the natural history, wildlife, and culture of the Pin Valley region.",
+                "location": "Pin Valley, Himachal Pradesh",
+                "pincode": "172104"
+              },
+              {
+                "name": "Nalagarh Fort Museum",
+                "description": "Exhibits the history of the fort and the region, with military artifacts and architectural displays.",
+                "location": "Nalagarh, Himachal Pradesh",
+                "pincode": "174101"
+              }],
+          "monuments": [],
+          "subtypes": ["Cultural", "Historical"]
+        },
+        "Jharkhand": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Tribal", "History"]
+        },
+        "Karnataka": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Art", "History", "Natural Science"]
+        },
+        "Kerala": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Art", "History", "Cultural"]
+        },
+        "Madhya Pradesh": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Archaeological", "Historical", "Cultural"]
+        },
+        "Maharashtra": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Art", "Science", "History"]
+        },
+        "Manipur": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Art", "History"]
+        },
+        "Meghalaya": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Natural"]
+        },
+        "Mizoram": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Historical"]
+        },
+        "Nagaland": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Historical"]
+        },
+        "Odisha": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Archaeological", "Cultural", "Religious"]
+        },
+        "Punjab": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Historical", "Cultural", "Religious"]
+        },
+        "Rajasthan": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Historical", "Cultural", "Archaeological"]
+        },
+        "Sikkim": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Natural"]
+        },
+        "Tamil Nadu": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Historical", "Art"]
+        },
+        "Telangana": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Historical", "Cultural", "Art"]
+        },
+        "Tripura": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Tribal"]
+        },
+        "Uttarakhand": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Historical", "Religious", "Cultural"]
+        },
+        "Uttar Pradesh": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Historical", "Cultural", "Religious"]
+        },
+        "West Bengal": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Art", "History", "Cultural"]
+        },
+        "Andaman and Nicobar Islands": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["History", "Cultural", "Natural"]
+        },
+        "Chandigarh": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Art", "Cultural", "Modern"]
+        },
+        "Dadra and Nagar Haveli and Daman and Diu": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Historical"]
+        },
+        "Lakshadweep": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Natural", "Cultural"]
+        },
+        "Delhi": {
+          "museums": [
+                {
+                        "name": "National Museum",
+                        "description": "One of the largest museums in India, it displays a wide range of historical artifacts, sculptures, and archaeological findings.",
+                        "location": "Janpath, Connaught Place, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Indian Museum",
+                        "description": "The largest and oldest museum in India, showcasing a wide variety of exhibits ranging from art, culture, and natural history.",
+                        "location": "Kolkata, West Bengal (Not in Delhi but can be included for completeness)",
+                        "pincode": "700013"
+                      },
+                      {
+                        "name": "Gandhi Smriti Museum",
+                        "description": "A museum dedicated to Mahatma Gandhi, showcasing his life, teachings, and contributions to India's independence movement.",
+                        "location": "5, Tees January Marg, New Delhi",
+                        "pincode": "110011"
+                      },
+                      {
+                        "name": "National Science Centre",
+                        "description": "An interactive science museum that offers hands-on exhibits in various fields of science, technology, and innovation.",
+                        "location": "Bhartiya Vidya Bhavan, Sector 13, Dwarka, New Delhi",
+                        "pincode": "110075"
+                      },
+                      {
+                        "name": "Indira Gandhi Memorial Museum",
+                        "description": "A museum dedicated to the life and legacy of Indira Gandhi, India’s first female Prime Minister.",
+                        "location": "Safdarjung Road, New Delhi",
+                        "pincode": "110011"
+                      },
+                      {
+                        "name": "National Rail Museum",
+                        "description": "A museum showcasing India's railway history, including vintage locomotives, carriages, and railway memorabilia.",
+                        "location": "Chanakyapuri, New Delhi",
+                        "pincode": "110021"
+                      },
+                      {
+                        "name": "National Gallery of Modern Art",
+                        "description": "A major art museum that displays modern and contemporary Indian art, including paintings, sculptures, and multimedia installations.",
+                        "location": "Rajpath, New Delhi",
+                        "pincode": "110011"
+                      },
+                      {
+                        "name": "Sultan Garhi Tomb Museum",
+                        "description": "A historical site housing the tomb of Sultan Garhi, with some archaeological artifacts from the Sultanate period.",
+                        "location": "Sultan Garhi, South Delhi",
+                        "pincode": "110030"
+                      },
+                      {
+                        "name": "Shankar’s International Dolls Museum",
+                        "description": "A museum exhibiting a wide variety of dolls from around the world, including international costumes and regional collections.",
+                        "location": "Connaught Place, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Zoological Museum",
+                        "description": "A museum with a collection of animal specimens, including taxidermy and preserved specimens.",
+                        "location": "Indian Institute of Science Education and Research (IISER), New Delhi",
+                        "pincode": "110029"
+                      },
+                      {
+                        "name": "Crafts Museum",
+                        "description": "A museum dedicated to India’s diverse handicrafts, folk art, and traditional artifacts.",
+                        "location": "Bhartiya Kala Bhawan, Pragati Maidan, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Museum of Natural History",
+                        "description": "Showcases India's flora, fauna, and geological history through interactive exhibits.",
+                        "location": "Barakhamba Road, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Dilli Haat Craft Museum",
+                        "description": "A vibrant market and museum combination focusing on handcrafts, art, and textiles from across India.",
+                        "location": "Hauz Khas, New Delhi",
+                        "pincode": "110016"
+                      },
+                      {
+                        "name": "The National Handicrafts and Handlooms Museum",
+                        "description": "An extensive collection of traditional Indian textiles, handicrafts, and handlooms from across the country.",
+                        "location": "Janpath, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Tughlakabad Fort Museum",
+                        "description": "A historical museum located at the ruins of Tughlakabad Fort, showcasing Delhi’s medieval past.",
+                        "location": "Tughlakabad, New Delhi",
+                        "pincode": "110044"
+                      },
+                      {
+                        "name": "Lal Qila (Red Fort) Museum",
+                        "description": "The museum inside the Red Fort displays India’s history from the Mughal period to contemporary times.",
+                        "location": "Red Fort, Chandni Chowk, New Delhi",
+                        "pincode": "110006"
+                      },
+                      {
+                        "name": "Jantar Mantar Museum",
+                        "description": "A collection of ancient astronomical instruments and scientific tools from the Mughal period.",
+                        "location": "Rajpath, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Delhi Police Museum",
+                        "description": "A museum showcasing the history of the Delhi Police, with exhibits on policing tools, equipment, and historic events.",
+                        "location": "I.P. Estate, New Delhi",
+                        "pincode": "110002"
+                      },
+                      {
+                        "name": "Delhi Art Gallery",
+                        "description": "A contemporary art gallery that displays works of leading artists from across India.",
+                        "location": "Hauz Khas, New Delhi",
+                        "pincode": "110016"
+                      },
+                      {
+                        "name": "India Habitat Centre Museum",
+                        "description": "A space for contemporary art, exhibitions, and cultural events, focusing on modern and environmental art.",
+                        "location": "Lodhi Road, New Delhi",
+                        "pincode": "110003"
+                      },
+                      {
+                        "name": "Jawaharlal Nehru Museum",
+                        "description": "A museum dedicated to India’s first Prime Minister, showcasing his life and contributions to the nation.",
+                        "location": "Teen Murti Bhavan, New Delhi",
+                        "pincode": "110011"
+                      },
+                      {
+                        "name": "Nehru Memorial Museum",
+                        "description": "A museum that honors the legacy of Jawaharlal Nehru, featuring his personal belongings and historical documents.",
+                        "location": "Teen Murti Bhavan, New Delhi",
+                        "pincode": "110011"
+                      },
+                      {
+                        "name": "Vishwavidyalaya Museum",
+                        "description": "A museum showcasing various art pieces, sculptures, and exhibits related to India’s educational history.",
+                        "location": "University of Delhi, New Delhi",
+                        "pincode": "110007"
+                      },
+                      {
+                        "name": "National War Memorial Museum",
+                        "description": "A tribute to India’s armed forces, with displays of military history, memorabilia, and achievements.",
+                        "location": "India Gate, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Rashtrapati Bhavan Museum",
+                        "description": "A museum inside the Rashtrapati Bhavan, showcasing India’s history, culture, and the life of its Presidents.",
+                        "location": "Raisina Hill, New Delhi",
+                        "pincode": "110011"
+                      },
+                      {
+                        "name": "Central Secretariat Museum",
+                        "description": "A museum highlighting the history and architecture of the Central Secretariat and its significance in India’s governance.",
+                        "location": "Central Secretariat, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "The War Memorial Museum",
+                        "description": "A museum dedicated to the soldiers who served in India’s various wars and conflicts, showcasing uniforms and weapons.",
+                        "location": "India Gate, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Indraprastha Museum",
+                        "description": "A museum focusing on the archaeological and historical aspects of the ancient city of Indraprastha.",
+                        "location": "Near IP Extension, Delhi",
+                        "pincode": "110092"
+                      },
+                      {
+                        "name": "Sardar Vallabhbhai Patel Museum",
+                        "description": "A museum dedicated to the life and legacy of India’s first Deputy Prime Minister, showcasing his contributions.",
+                        "location": "Vigyan Bhawan, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Baba Saheb Ambedkar Museum",
+                        "description": "A museum dedicated to Dr. B.R. Ambedkar, showcasing his life, teachings, and efforts towards social justice.",
+                        "location": "Dharna Chowk, New Delhi",
+                        "pincode": "110011"
+                      },
+                      {
+                        "name": "The Agricultural Museum",
+                        "description": "A museum dedicated to India’s agricultural history, with exhibits on farming tools, crop cultivation, and rural traditions.",
+                        "location": "Pusa Institute, New Delhi",
+                        "pincode": "110012"
+                      },
+                      {
+                        "name": "Science Museum",
+                        "description": "A science museum focusing on various fields of science with hands-on displays, exhibits, and educational content.",
+                        "location": "Nehru Planetarium, New Delhi",
+                        "pincode": "110001"
+                      },
+                      {
+                        "name": "Planetarium Museum",
+                        "description": "A museum featuring exhibits on astronomy and space science, including models of planets and celestial objects.",
+                        "location": "Teen Murti Bhavan, New Delhi",
+                        "pincode": "110011"
+                      }
+          ],
+          "monuments": [
+      {
+        "name": "Qutub Minar",
+        "description": "A UNESCO World Heritage site, the Qutub Minar is a tower built in the 12th century.",
+        "location": "Mehrauli, New Delhi",
+        "pincode": "110030"
+      },
+      {
+        "name": "Red Fort",
+        "description": "A symbol of India's rich history, the Red Fort is a 17th-century fortification built by the Mughal Emperor Shah Jahan.",
+        "location": "Netaji Subhash Marg, Chandni Chowk, New Delhi",
+        "pincode": "110006"
+      },
+      {
+        "name": "India Gate",
+        "description": "A war memorial to soldiers who died during World War I, it stands at the center of New Delhi.",
+        "location": "Rajpath, India Gate, New Delhi",
+        "pincode": "110001"
+      },
+      {
+        "name": "Humayun's Tomb",
+        "description": "A UNESCO World Heritage site, Humayun's Tomb is a stunning example of Mughal architecture and the tomb of the Mughal Emperor Humayun.",
+        "location": "Nizamuddin East, New Delhi",
+        "pincode": "110013"
+      },
+      {
+        "name": "Lotus Temple",
+        "description": "A Bahá'í House of Worship, known for its unique lotus flower-like structure, open to all religions.",
+        "location": "Bahapur, New Delhi",
+        "pincode": "110044"
+      },
+      {
+        "name": "Jantar Mantar",
+        "description": "An astronomical observatory built in the 18th century, it features large instruments used to observe celestial bodies.",
+        "location": "Sansad Marg, Connaught Place, New Delhi",
+        "pincode": "110001"
+      },
+      {
+        "name": "Bangla Sahib Gurudwara",
+        "description": "A prominent Sikh Gurudwara, dedicated to the eighth Sikh Guru, Guru Har Krishan.",
+        "location": "Connaught Place, New Delhi",
+        "pincode": "110001"
+      },
+      {
+        "name": "Safdarjung Tomb",
+        "description": "A Mughal-style tomb built in the 18th century, it is the tomb of Safdarjung, a noble in the Mughal Empire.",
+        "location": "Safdarjung, New Delhi",
+        "pincode": "110029"
+      },
+      {
+        "name": "Purana Qila",
+        "description": "One of the oldest forts in Delhi, dating back to the Mughal period, and associated with the legend of the Mahabharata.",
+        "location": "Mathura Road, New Delhi",
+        "pincode": "110003"
+      },
+      {
+        "name": "Tughlaqabad Fort",
+        "description": "A massive fort built by Sultan Ghiyas-ud-din Tughlaq in the 14th century, known for its ruins and historical significance.",
+        "location": "Tughlaqabad, New Delhi",
+        "pincode": "110044"
+      },
+      {
+        "name": "Lodhi Garden",
+        "description": "A city park, it contains several tombs from the Lodhi era, a period of Delhi's history.",
+        "location": "Lodhi Road, New Delhi",
+        "pincode": "110003"
+      },
+      {
+        "name": "Baba Kharak Singh Marg",
+        "description": "A memorial and place of significance, with connections to the freedom movement and several landmarks.",
+        "location": "Connaught Place, New Delhi",
+        "pincode": "110001"
+      },
+      {
+        "name": "Rashtrapati Bhavan",
+        "description": "The official residence of the President of India, an architectural masterpiece with beautiful gardens and the Mughal Gardens.",
+        "location": "Raisina Hill, New Delhi",
+        "pincode": "110004"
+      },
+      {
+        "name": "Gurudwara Sis Ganj Sahib",
+        "description": "A prominent Gurudwara associated with the martyrdom of Guru Teg Bahadur, the ninth Sikh Guru.",
+        "location": "Chandni Chowk, New Delhi",
+        "pincode": "110006"
+      },
+      {
+        "name": "Zafar Mahal",
+        "description": "A historical building and the last monumental structure of the Mughal Empire, located in Mehrauli.",
+        "location": "Mehrauli, New Delhi",
+        "pincode": "110030"
+      },
+      {
+        "name": "Kuthub Minar",
+        "description": "An ancient tower built during the Delhi Sultanate, recognized for its towering structure.",
+        "location": "Mehrauli, New Delhi",
+        "pincode": "110030"
+      },
+      {
+        "name": "Raj Ghat",
+        "description": "A memorial to Mahatma Gandhi, marking the site of his cremation, with a simple black marble platform.",
+        "location": "Raj Ghat, New Delhi",
+        "pincode": "110002"
+      },
+      {
+        "name": "Shanti Vana",
+        "description": "A memorial dedicated to Jawaharlal Nehru, India's first Prime Minister.",
+        "location": "Raj Ghat, New Delhi",
+        "pincode": "110002"
+      },
+      {
+        "name": "Sarai Kale Khan",
+        "description": "An ancient inn located along a major caravan route, now a historical monument.",
+        "location": "Sarai Kale Khan, New Delhi",
+        "pincode": "110020"
+      },
+      {
+        "name": "Chandni Chowk",
+        "description": "One of the oldest markets in Delhi, known for its historical significance and vibrant shopping experience.",
+        "location": "Chandni Chowk, New Delhi",
+        "pincode": "110006"
+      },
+      {
+        "name": "Indira Gandhi Memorial",
+        "description": "A memorial dedicated to India's first female Prime Minister, Indira Gandhi.",
+        "location": "Safdarjung Road, New Delhi",
+        "pincode": "110011"
+      },
+      {
+        "name": "Moti Masjid",
+        "description": "A mosque built by Emperor Aurangzeb in the 17th century, located near the Red Fort.",
+        "location": "Red Fort, New Delhi",
+        "pincode": "110006"
+      },
+      {
+        "name": "National War Memorial",
+        "description": "A memorial dedicated to Indian soldiers who died in various conflicts, located near India Gate.",
+        "location": "Rajpath, New Delhi",
+        "pincode": "110001"
+      },
+      {
+        "name": "Shahjahanabad",
+        "description": "The walled city constructed by Mughal Emperor Shah Jahan, now a part of Old Delhi.",
+        "location": "Old Delhi, New Delhi",
+        "pincode": "110006"
+      },
+      {
+        "name": "Nizamuddin Dargah",
+        "description": "The tomb of the famous Sufi saint Nizamuddin Auliya, a significant religious and cultural site.",
+        "location": "Nizamuddin, New Delhi",
+        "pincode": "110013"
+      },
+      {
+        "name": "Agrasen Ki Baoli",
+        "description": "A stepwell built by Maharaja Agrasen, located in the heart of New Delhi.",
+        "location": "Connaught Place, New Delhi",
+        "pincode": "110001"
+      },
+      {
+        "name": "Sultan Ghari Tomb",
+        "description": "The tomb of Sultan Iltutmish's son, located in Mehrauli, Delhi.",
+        "location": "Mehrauli, New Delhi",
+        "pincode": "110030"
+      },
+      {
+        "name": "Feroz Shah Kotla",
+        "description": "A fort and a historical monument built by Sultan Feroz Shah Tughlaq, now in ruins.",
+        "location": "Feroz Shah Kotla, New Delhi",
+        "pincode": "110002"
+      },
+      {
+        "name": "Mughal Gardens",
+        "description": "A collection of beautifully designed gardens reflecting Mughal architectural styles, located near Rashtrapati Bhavan.",
+        "location": "Raisina Hill, New Delhi",
+        "pincode": "110004"
+      },
+      {
+        "name": "Baba Kharak Singh Marg",
+        "description": "A historical monument and memorial dedicated to a prominent Sikh personality.",
+        "location": "Connaught Place, New Delhi",
+        "pincode": "110001"
+      },
+      {
+        "name": "Siri Fort",
+        "description": "A historical fort built by Ala-ud-din Khilji during the 14th century.",
+        "location": "Siri Fort, New Delhi",
+        "pincode": "110030"
+      },
+      {
+        "name": "Delhi Haat",
+        "description": "A traditional Indian market and cultural center showcasing Indian handicrafts.",
+        "location": "INA Market, New Delhi",
+        "pincode": "110023"
+      },
+      {
+        "name": "ISKCON Temple",
+        "description": "A significant religious temple devoted to Lord Krishna, known for its spiritual teachings and vibrant environment.",
+        "location": "Hauz Khas, New Delhi",
+        "pincode": "110016"
+      },
+      {
+        "name": "Qutub Minar Complex",
+        "description": "A UNESCO World Heritage Site, this monument complex includes several historical buildings, mosques, and ruins.",
+        "location": "Mehrauli, New Delhi",
+        "pincode": "110030"
+      },
+      {
+        "name": "National Zoological Park",
+        "description": "A zoo in Delhi featuring a wide variety of animals, a place of historical and educational importance.",
+        "location": "Mathura Road, New Delhi",
+        "pincode": "110003"
+      }
+    ],
+          "subtypes": ["Art", "History", "Culture"]
+        },
+        "Puducherry": {
+          "museums": [],
+          "monuments": [],
+          "subtypes": ["Cultural", "Historical"]
+        }
+      }
+      
