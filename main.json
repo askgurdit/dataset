@@ -1293,21 +1293,25 @@
       "imageUrl": [],
       "iframe": "No iframe available"
   },
-  {
-      "agencyName": "Khajuraho Agency",
-      "MonumentName": "Khajuraho Archaeological Museum",
-      "email": "khajuraho_1733479737@gmail.com",
-      "password": "test@123",
-      "desc": "Located near the famous Khajuraho temples, this museum displays sculptures and other artifacts related to the architectural wonders of the temples.",
-      "contactNumber": "7621147441",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Khajuraho",
-      "state": "Madhya Pradesh",
-      "pincode": "471606",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+{
+    "agencyName": "Le Corbusier Centre",
+    "MonumentName": "Le Corbusier Centre",
+    "email": "lecorbusier_centre@gmail.com",
+    "password": "gurdit@123",
+    "desc": "The Le Corbusier Centre in Chandigarh is a dedicated museum honoring the legacy of the Swiss-French architect Le Corbusier, who designed Chandigarh as India’s first planned city. Located in Sector 19, the Centre occupies the building that once served as Corbusier’s office during the city's planning and construction in the 1950s. It was inaugurated on October 6, 2008, to preserve and promote the visionary architect’s work and philosophy. The Centre showcases Corbusier's monumental contributions to urban planning and architecture, highlighting Chandigarh as a prime example of Modernist design. The museum houses an impressive collection of original sketches, architectural drawings, photographs, correspondence, and personal items of Le Corbusier, providing a comprehensive insight into his creative process. Exhibits also include plans of Chandigarh’s iconic structures, such as the Capitol Complex, the Open Hand Monument, and the Assembly Building, reflecting Corbusier’s philosophy of 'functionalism' and harmony with nature. The building itself exemplifies Le Corbusier's architectural principles, featuring minimalist designs, exposed concrete, and clean lines. It also includes spaces that once hosted planning discussions, adding historical significance to the structure. The Centre’s layout promotes an immersive experience, allowing visitors to explore Corbusier’s works and his vision for Chandigarh’s unique architecture. In addition to serving as a repository of historical materials, the Le Corbusier Centre functions as an educational resource. It regularly organizes exhibitions, workshops, and seminars on architecture, urban design, and heritage conservation, attracting architects, students, and researchers globally. It also fosters awareness of Chandigarh’s UNESCO World Heritage designation for its architectural ensemble. The Centre is open to the public, offering guided tours to enhance understanding of Le Corbusier’s innovative approaches. Its tranquil setting, surrounded by lush greenery, mirrors Corbusier's vision of creating spaces that integrate urban development with natural landscapes. The Le Corbusier Centre stands as a tribute to a master architect and a beacon for those inspired by modern architectural heritage.",
+    "contactNumber": "01722777077",
+    "ticketPrice": 30,
+    "MonumentLogo": "No logo available",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160019",
+    "imageUrl": [
+        "https://lh5.googleusercontent.com/p/AF1QipPv5jcm1JM0Paq7nZtjrsZOCO_Rtk1_pGFUlAMQ=w114-h86-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipPv5jcm1JM0Paq7nZtjrsZOCO_Rtk1_pGFUlAMQ=w114-h86-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipPv5jcm1JM0Paq7nZtjrsZOCO_Rtk1_pGFUlAMQ=w114-h86-k-no"
+    ],
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109746.99984896915!2d76.72950445820311!3d30.729819399999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fed19046b82e1%3A0x4ef570cc3ce9aa6c!2sLe%20Corbusier%20Centre!5e0!3m2!1sen!2sin!4v1733502573847!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+},
 {
     "agencyName": "Chandigarh Architecture Museum Authority",
     "MonumentName": "Chandigarh Architecture Museum",
