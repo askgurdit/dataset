@@ -1279,65 +1279,78 @@
       "iframe": "No iframe available"
   },
   {
-      "agencyName": "Bhopal Agency",
-      "MonumentName": "Bhopal Museum",
-      "email": "bhopal_1733479737@gmail.com",
-      "password": "test@123",
-      "desc": "This museum showcases the history, culture, and heritage of Bhopal, including art and archaeological objects from ancient to modern times.",
-      "contactNumber": "8336168087",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Bhopal",
-      "state": "Madhya Pradesh",
-      "pincode": "462001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+  "agencyName": "Chandigarh Travel Authority",
+  "MonumentName": "International Dolls Museum",
+  "email": "chandigarh_museum@gmail.com",
+  "password": "gurdit@123",
+  "desc": "The International Dolls Museum in Chandigarh is a vibrant cultural attraction showcasing an enchanting collection of dolls and puppets from around the world. Established in 1985 by the Indian Council of Child Welfare (ICCW), the museum houses over 250 dolls and puppets from countries like India, the US, Germany, Russia, Korea, and Spain. It features dolls in traditional attire, a remarkable Indian puppetry collection, a toy train, and a playroom for children, making it a delightful venue for families and cultural enthusiasts.",
+  "contactNumber": "18001802116",
+  "ticketPrice": 20,
+  "MonumentLogo": "No logo available",
+  "city": "Chandigarh",
+  "state": "Chandigarh",
+  "pincode": "160023",
+  "imageUrl": [
+    "https://www.google.co.in/maps/place/International+Dolls+Museum/@30.7411787,76.7709814,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOtVVzzko_RX9NJwZVtRerxQd-w-enSILH79YJb!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOtVVzzko_RX9NJwZVtRerxQd-w-enSILH79YJb%3Dw114-h86-k-no!7i4032!8i3024",
+    "https://www.google.co.in/maps/place/International+Dolls+Museum/@30.7411787,76.7709814,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOtVVzzko_RX9NJwZVtRerxQd-w-enSILH79YJb!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOtVVzzko_RX9NJwZVtRerxQd-w-enSILH79YJb%3Dw114-h86-k-no!7i4032!8i3024",
+    "https://www.google.co.in/maps/place/International+Dolls+Museum/@30.7411787,76.7709814,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOtVVzzko_RX9NJwZVtRerxQd-w-enSILH79YJb!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOtVVzzko_RX9NJwZVtRerxQd-w-enSILH79YJb%3Dw114-h86-k-no!7i4032!8i3024"
+  ],
+  "iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109734.06333831087!2d76.70094355820312!3d30.741178699999985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fed987ed096c1%3A0x2f22e98e0e4206c6!2sInternational%20Dolls%20Museum!5e0!3m2!1sen!2sin!4v1733502867381!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+}
+
+{
+    "agencyName": "Le Corbusier Centre",
+    "MonumentName": "Le Corbusier Centre",
+    "email": "lecorbusier_centre@gmail.com",
+    "password": "gurdit@123",
+    "desc": "The Le Corbusier Centre in Chandigarh is a dedicated museum honoring the legacy of the Swiss-French architect Le Corbusier, who designed Chandigarh as India’s first planned city. Located in Sector 19, the Centre occupies the building that once served as Corbusier’s office during the city's planning and construction in the 1950s. It was inaugurated on October 6, 2008, to preserve and promote the visionary architect’s work and philosophy. The Centre showcases Corbusier's monumental contributions to urban planning and architecture, highlighting Chandigarh as a prime example of Modernist design. The museum houses an impressive collection of original sketches, architectural drawings, photographs, correspondence, and personal items of Le Corbusier, providing a comprehensive insight into his creative process. Exhibits also include plans of Chandigarh’s iconic structures, such as the Capitol Complex, the Open Hand Monument, and the Assembly Building, reflecting Corbusier’s philosophy of 'functionalism' and harmony with nature. The building itself exemplifies Le Corbusier's architectural principles, featuring minimalist designs, exposed concrete, and clean lines. It also includes spaces that once hosted planning discussions, adding historical significance to the structure. The Centre’s layout promotes an immersive experience, allowing visitors to explore Corbusier’s works and his vision for Chandigarh’s unique architecture. In addition to serving as a repository of historical materials, the Le Corbusier Centre functions as an educational resource. It regularly organizes exhibitions, workshops, and seminars on architecture, urban design, and heritage conservation, attracting architects, students, and researchers globally. It also fosters awareness of Chandigarh’s UNESCO World Heritage designation for its architectural ensemble. The Centre is open to the public, offering guided tours to enhance understanding of Le Corbusier’s innovative approaches. Its tranquil setting, surrounded by lush greenery, mirrors Corbusier's vision of creating spaces that integrate urban development with natural landscapes. The Le Corbusier Centre stands as a tribute to a master architect and a beacon for those inspired by modern architectural heritage.",
+    "contactNumber": "01722777077",
+    "ticketPrice": 30,
+    "MonumentLogo": "No logo available",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160019",
+    "imageUrl": [
+        "https://lh5.googleusercontent.com/p/AF1QipPv5jcm1JM0Paq7nZtjrsZOCO_Rtk1_pGFUlAMQ=w114-h86-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipPv5jcm1JM0Paq7nZtjrsZOCO_Rtk1_pGFUlAMQ=w114-h86-k-no",
+        "https://lh5.googleusercontent.com/p/AF1QipPv5jcm1JM0Paq7nZtjrsZOCO_Rtk1_pGFUlAMQ=w114-h86-k-no"
+    ],
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109746.99984896915!2d76.72950445820311!3d30.729819399999986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fed19046b82e1%3A0x4ef570cc3ce9aa6c!2sLe%20Corbusier%20Centre!5e0!3m2!1sen!2sin!4v1733502573847!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+},
+{
+    "agencyName": "Chandigarh Architecture Museum Authority",
+    "MonumentName": "Chandigarh Architecture Museum",
+    "email": "chandigarh_architecture_museum@gmail.com",
+    "password": "gurdit@123",
+    "desc": "It was set up in 1997 to document, preserve, and showcase rare documents, drawings, sketches, and archives pertaining to the making of Chandigarh. The building is distinctly sculptural and true Corbusian in its outlook. The museum is entered through a tube-like stairway and divided into four levels showcasing different themes.",
+    "contactNumber": "01722745510",
+    "ticketPrice": 10,
+    "MonumentLogo": "No logo available",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160011",
+    "imageUrl": [
+        "https://lh5.googleusercontent.com/p/AF1QipMXX0oVlFZnV7jpIuUtULRw6LzFfifCuvCe7ijy=w114-h86-k-no"
+    ],
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109726.08413097105!2d76.71686275820315!3d30.748183200000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fed73e7a673db%3A0x723965d35648cabe!2sChandigarh%20Architecture%20Museum!5e0!3m2!1sen!2sin!4v1733501933788!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+},
   {
-      "agencyName": "Khajuraho Agency",
-      "MonumentName": "Khajuraho Archaeological Museum",
-      "email": "khajuraho_1733479737@gmail.com",
-      "password": "test@123",
-      "desc": "Located near the famous Khajuraho temples, this museum displays sculptures and other artifacts related to the architectural wonders of the temples.",
-      "contactNumber": "7621147441",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Khajuraho",
-      "state": "Madhya Pradesh",
-      "pincode": "471606",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Gwalior Agency",
-      "MonumentName": "Gwalior Fort Museum",
-      "email": "gwalior_1733479737@gmail.com",
-      "password": "test@123",
-      "desc": "Situated in the historic Gwalior Fort, this museum showcases the rich history of the fort and its rulers, with weapons, paintings, and sculptures.",
-      "contactNumber": "7906317665",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Gwalior",
-      "state": "Madhya Pradesh",
-      "pincode": "474008",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
-  {
-      "agencyName": "Gwalior Agency",
-      "MonumentName": "Chhatri Baag Museum",
-      "email": "gwalior_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "A small museum that features the architectural and cultural history of the Chhatri Baag and its royal significance.",
-      "contactNumber": "8381363283",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Gwalior",
-      "state": "Madhya Pradesh",
-      "pincode": "474002",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+    "agencyName": "Government Museum and Art Gallery",
+    "MonumentName": "Government Museum and Art Gallery",
+    "email": "museum_chandigarh@gmail.com",
+    "password": "gurdit@123",
+    "desc": "The Government Museum and Art Gallery, Chandigarh, is a prominent cultural institution in North India. It is renowned for its vast collection of Gandharan sculptures, miniature paintings, and ancient Indian artefacts, reflecting the region's rich cultural and historical heritage.",
+    "contactNumber": "01722742010",
+    "ticketPrice": 30,
+    "MonumentLogo": "No logo available",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160011",
+    "imageUrl": [
+        "https://www.google.co.in/maps/place/Government+Museum+and+Art+Gallery/@30.7492945,76.7875708,3a,75y,90t/data=!3m8!1e2!3m6!1shttp:%2F%2Ft1.gstatic.com%2Fimages%3Fq%3Dtbn:ANd9GcQR4_o_TAkz_0r0gb1qtP910a7ymbxiKGDdq1Yd1ZZj8DQaEwVD!2e7!3e27!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-proxy%2FALd4DhHwGOCIdooR30s6TQpkYjrlSeUgT3WtNtwjfiRPE5OK_Wma3RO4EQN5BHghYohqlP1WSWPBE-d_yjkhfl9V1XPYqxiRSUkqTlntgEGCJKvakJHB2jaEtmUt3x2yGk8SeUfbX_LvaGXBEn8b3WQT5aMFG_QxDMlXAeG1UE0eJjaUDKT6SmwgI2SeiA%3Dw129-h86-k-no!7i1080!8i720"
+    ],
+    "iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109725.25404887491!2d76.71742965820312!3d30.7489118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390feda6178c691f%3A0xcb9a924a244f70f7!2sGovernment%20Museum%20and%20Art%20Gallery!5e0!3m2!1sen!2sin!4v1733501050942!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+},
  {
     "agencyName": "The Grenadiers Museum Agency",
     "MonumentName": "The Grenadiers Museum",
