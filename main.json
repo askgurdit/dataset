@@ -1396,21 +1396,24 @@
       "imageUrl": [],
       "iframe": "No iframe available"
   },
-  {
-      "agencyName": "Ujjain Agency",
-      "MonumentName": "Ujjain Museum",
-      "email": "ujjain_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "This museum in the sacred city of Ujjain exhibits ancient artifacts, sculptures, and coins dating back to the times of Ujjain's historical importance.",
-      "contactNumber": "7336619233",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Ujjain",
-      "state": "Madhya Pradesh",
-      "pincode": "456001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+ {
+  "agencyName": "Kundeshwar Cultural Museum Agency",
+  "MonumentName": "Kundeshwar Cultural Museum",
+  "email": "kundeshwar.cultural.museum@gmail.com",
+  "password": "gurdit@123",
+  "desc": "This museum in the sacred city of Ujjain exhibits ancient artifacts, sculptures, and coins dating back to the times of Ujjain's historical importance.",
+  "contactNumber": "9876543210",
+  "ticketPrice": 100,
+  "MonumentLogo": "No logo available",
+  "city": "Kundam",
+  "state": "Madhya Pradesh",
+  "pincode": "483110",
+  "imageUrl": [
+    "https://www.google.com/maps/place/Kundeshwar+cultural+museum/@23.2176516,80.3473185,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOG-58Lfum-z2SsvyMIfyNhAt42e2UYaT7WjGvr!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOG-58Lfum-z2SsvyMIfyNhAt42e2UYaT7WjGvr%3Dw131-h86-k-no!7i882!8i576!4m16!1m8!3m7!1s0x39811b0001c8181f:0x5b56da2d36ea7983!2sKundeshwar+cultural+museum!8m2!3d23.2177139!4d80.347289!10e1!16s%2Fg%2F11vx5g1kvj!3m6!1s0x39811b0001c8181f:0x5b56da2d36ea7983!8m2!3d23.2177139!4d80.347289!10e5!16s%2Fg%2F11vx5g1kvj?entry=ttu&g_ep=EgoyMDI0MTIwMy4wIKXMDSoASAFQAw%3D%3D#",
+    "https://www.google.com/maps/place/Kundeshwar+cultural+museum/@23.2176516,80.3473185,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOG-58Lfum-z2SsvyMIfyNhAt42e2UYaT7WjGvr!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOG-58Lfum-z2SsvyMIfyNhAt42e2UYaT7WjGvr%3Dw131-h86-k-no!7i882!8i576!4m16!1m8!3m7!1s0x39811b0001c8181f:0x5b56da2d36ea7983!2sKundeshwar+cultural+museum!8m2!3d23.2177139!4d80.347289!10e1!16s%2Fg%2F11vx5g1kvj!3m6!1s0x39811b0001c8181f:0x5b56da2d36ea7983!8m2!3d23.2177139!4d80.347289!10e5!16s%2Fg%2F11vx5g1kvj?entry=ttu&g_ep=EgoyMDI0MTIwMy4wIKXMDSoASAFQAw%3D%3D#"
+  ],
+  "iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.6986169218626!2d80.3473185!3d23.217651600000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39811b0001c8181f%3A0x5b56da2d36ea7983!2sKundeshwar%20cultural%20museum!5e0!3m2!1sen!2sin!4v1733485009623!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+},
   {
       "agencyName": "Jabalpur Agency",
       "MonumentName": "Jabalpur Museum",
