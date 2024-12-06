@@ -1324,20 +1324,22 @@
       "iframe": "No iframe available"
   },
   {
-      "agencyName": "Gwalior Agency",
-      "MonumentName": "Chhatri Baag Museum",
-      "email": "gwalior_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "A small museum that features the architectural and cultural history of the Chhatri Baag and its royal significance.",
-      "contactNumber": "8381363283",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Gwalior",
-      "state": "Madhya Pradesh",
-      "pincode": "474002",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+    "agencyName": "Government Museum and Art Gallery",
+    "MonumentName": "Government Museum and Art Gallery",
+    "email": "museum_chandigarh@gmail.com",
+    "password": "gurdit@123",
+    "desc": "The Government Museum and Art Gallery, Chandigarh, is a prominent cultural institution in North India. It is renowned for its vast collection of Gandharan sculptures, miniature paintings, and ancient Indian artefacts, reflecting the region's rich cultural and historical heritage.",
+    "contactNumber": "01722742010",
+    "ticketPrice": 30,
+    "MonumentLogo": "No logo available",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160011",
+    "imageUrl": [
+        "https://www.google.co.in/maps/place/Government+Museum+and+Art+Gallery/@30.7492945,76.7875708,3a,75y,90t/data=!3m8!1e2!3m6!1shttp:%2F%2Ft1.gstatic.com%2Fimages%3Fq%3Dtbn:ANd9GcQR4_o_TAkz_0r0gb1qtP910a7ymbxiKGDdq1Yd1ZZj8DQaEwVD!2e7!3e27!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-proxy%2FALd4DhHwGOCIdooR30s6TQpkYjrlSeUgT3WtNtwjfiRPE5OK_Wma3RO4EQN5BHghYohqlP1WSWPBE-d_yjkhfl9V1XPYqxiRSUkqTlntgEGCJKvakJHB2jaEtmUt3x2yGk8SeUfbX_LvaGXBEn8b3WQT5aMFG_QxDMlXAeG1UE0eJjaUDKT6SmwgI2SeiA%3Dw129-h86-k-no!7i1080!8i720"
+    ],
+    "iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109725.25404887491!2d76.71742965820312!3d30.7489118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390feda6178c691f%3A0xcb9a924a244f70f7!2sGovernment%20Museum%20and%20Art%20Gallery!5e0!3m2!1sen!2sin!4v1733501050942!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+},
  {
     "agencyName": "The Grenadiers Museum Agency",
     "MonumentName": "The Grenadiers Museum",
