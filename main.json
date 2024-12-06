@@ -1308,21 +1308,23 @@
       "imageUrl": [],
       "iframe": "No iframe available"
   },
-  {
-      "agencyName": "Gwalior Agency",
-      "MonumentName": "Gwalior Fort Museum",
-      "email": "gwalior_1733479737@gmail.com",
-      "password": "test@123",
-      "desc": "Situated in the historic Gwalior Fort, this museum showcases the rich history of the fort and its rulers, with weapons, paintings, and sculptures.",
-      "contactNumber": "7906317665",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Gwalior",
-      "state": "Madhya Pradesh",
-      "pincode": "474008",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+{
+    "agencyName": "Chandigarh Architecture Museum Authority",
+    "MonumentName": "Chandigarh Architecture Museum",
+    "email": "chandigarh_architecture_museum@gmail.com",
+    "password": "gurdit@123",
+    "desc": "It was set up in 1997 to document, preserve, and showcase rare documents, drawings, sketches, and archives pertaining to the making of Chandigarh. The building is distinctly sculptural and true Corbusian in its outlook. The museum is entered through a tube-like stairway and divided into four levels showcasing different themes.",
+    "contactNumber": "01722745510",
+    "ticketPrice": 10,
+    "MonumentLogo": "No logo available",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "pincode": "160011",
+    "imageUrl": [
+        "https://lh5.googleusercontent.com/p/AF1QipMXX0oVlFZnV7jpIuUtULRw6LzFfifCuvCe7ijy=w114-h86-k-no"
+    ],
+    "iframe": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d109726.08413097105!2d76.71686275820315!3d30.748183200000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fed73e7a673db%3A0x723965d35648cabe!2sChandigarh%20Architecture%20Museum!5e0!3m2!1sen!2sin!4v1733501933788!5m2!1sen!2sin' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+},
   {
     "agencyName": "Government Museum and Art Gallery",
     "MonumentName": "Government Museum and Art Gallery",
