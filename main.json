@@ -1357,20 +1357,23 @@
 }
 
   {
-      "agencyName": "Sanchi Agency",
-      "MonumentName": "Sanchi Archaeological Museum",
-      "email": "sanchi_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "Located near the Sanchi Stupa, this museum displays sculptures, inscriptions, and relics from the ancient Buddhist site.",
-      "contactNumber": "8563337375",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Sanchi",
-      "state": "Madhya Pradesh",
-      "pincode": "464001",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+    "agencyName": "Bastar Tribal Art Museum Agency",
+    "MonumentName": "Bastar Tribal Art Museum",
+    "email": "bastar_tribal_1733479738@gmail.com",
+    "password": "gurdit@123",
+    "desc": "The **Bastar Tribal Art Museum**, located in the heart of Jabalpur, is a cultural treasure trove that showcases the rich and diverse tribal art traditions of Bastar. This museum serves as a significant repository of tribal art and crafts, offering visitors a deep dive into the artistic practices of the indigenous communities that have long thrived in this region. It houses a vast collection of artifacts, including intricately carved wooden sculptures, metal objects, and traditional textiles, which reflect the unique cultural fabric of the tribes of Bastar.\n\nOne of the main highlights of the museum is its collection of **ceremonial masks**, **figurines**, and **ornaments**, all of which play a central role in the spiritual and cultural life of the tribes. These masks, often used in religious rituals, are beautifully crafted to represent deities, spirits, and animals, embodying the close relationship these communities share with nature and their beliefs. The figures and sculptures are an embodiment of tribal artistry, often used in ceremonies and festivals, and they showcase an incredible level of craftsmanship passed down through generations.\n\nThe museum offers valuable insights into the daily life of the tribal people, shedding light on their customs, beliefs, and traditions. Visitors can explore exhibits that include not just artistic objects but also everyday tools, utensils, and textiles, each piece telling its own story about the life and culture of the Bastar tribes. The museum's collection serves as a window into a world that blends the natural environment with spirituality, community, and tradition.\n\nIn addition to its art collection, the museum promotes the ongoing preservation of tribal art and culture, ensuring that the legacy of Bastar’s tribal communities continues to be celebrated and understood by future generations. A visit to the Bastar Tribal Art Museum is a journey through time, offering a chance to experience firsthand the soul-stirring beauty and deep significance of the tribal art forms of Bastar.",
+    "contactNumber": "7000609845",
+    "ticketPrice": 100,
+    "MonumentLogo": "No logo available",
+    "city": "Kondagaon",
+    "state": "Chhattisgarh",
+    "pincode": "494226",
+    "imageUrl": [
+        "https://www.google.com/maps/place/Sanskriti+Bastar+(+Bastar+Arts+and+Crafts+)/@19.6107982,81.6700562,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMQ9NOAog6bEmhCm-kGmgWPskjtfOdmiQZOQCK_!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMQ9NOAog6bEmhCm-kGmgWPskjtfOdmiQZOQCK_%3Dw167-h86-k-no!7i2048!8i1050!4m7!3m6!1s0x3a2fcfbf57594ae3:0x36de92f46eb3667e!8m2!3d19.6107941!4d81.6699433!10e5!16s%2Fg%2F113k31l52?entry=ttu&g_ep=EgoyMDI0MTIwMy4wIKXMDSoASAFQAw%3D%3D#",
+        "https://www.google.com/maps/place/Sanskriti+Bastar+(+Bastar+Arts+and+Crafts+)/@19.6107982,81.6700562,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMQ9NOAog6bEmhCm-kGmgWPskjtfOdmiQZOQCK_!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMQ9NOAog6bEmhCm-kGmgWPskjtfOdmiQZOQCK_%3Dw167-h86-k-no!7i2048!8i1050!4m7!3m6!1s0x3a2fcfbf57594ae3:0x36de92f46eb3667e!8m2!3d19.6107941!4d81.6699433!10e5!16s%2Fg%2F113k31l52?entry=ttu&g_ep=EgoyMDI0MTIwMy4wIKXMDSoASAFQAw%3D%3D#"
+    ],
+    "iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3758.3857785180103!2d81.67005619999999!3d19.610798199999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a2fcfbf57594ae3%3A0x36de92f46eb3667e!2sSanskriti%20Bastar%20(%20Bastar%20Arts%20and%20Crafts%20)!5e0!3m2!1sen!2sin!4v1733487132973!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+},
   {
       "agencyName": "Gwalior Agency",
       "MonumentName": "Tansen Music Museum",
