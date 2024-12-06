@@ -1366,21 +1366,24 @@
       "imageUrl": [],
       "iframe": "No iframe available"
   },
-  {
-      "agencyName": "Gwalior Agency",
-      "MonumentName": "Tansen Music Museum",
-      "email": "gwalior_1733479738@gmail.com",
-      "password": "test@123",
-      "desc": "A museum dedicated to the life and work of the legendary musician Tansen, showcasing musical instruments and artifacts related to classical Indian music.",
-      "contactNumber": "7538714689",
-      "ticketPrice": 100,
-      "MonumentLogo": "No logo available",
-      "city": "Gwalior",
-      "state": "Madhya Pradesh",
-      "pincode": "474002",
-      "imageUrl": [],
-      "iframe": "No iframe available"
-  },
+{
+  "agencyName": "Archaeological Dept Museum Agency",
+  "MonumentName": "Archaeological Dept Museum",
+  "email": "archaeological_dept.museum@gmail.com",
+  "password": "gurdit@123",
+  "desc": "A museum dedicated to the life and work of the legendary musician Tansen, showcasing musical instruments and artifacts related to classical Indian music.",
+  "contactNumber": "09425387536",
+  "ticketPrice": 100,
+  "MonumentLogo": "No logo available",
+  "city": "Gwalior",
+  "state": "Madhya Pradesh",
+  "pincode": "482001",
+  "imageUrl": [
+    "https://www.google.com/maps/place/ARCHAEOLOGY+DEPT+MUSEUM/@23.1596738,79.9799099,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPB8QazmbZmfeGLlrQSAwtDvM32V3gH4WchNbvz!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPB8QazmbZmfeGLlrQSAwtDvM32V3gH4WchNbvz%3Dw86-h191-k-no!7i1872!8i4160!4m7!3m6!1s0x3981ae9dcbdf9be9:0x38e504818d7cf6a4!8m2!3d23.1600319!4d79.9796718!10e5!16s%2Fg%2F11g6nyrm4v?entry=ttu&g_ep=EgoyMDI0MTIwMy4wIKXMDSoASAFQAw%3D%3D#",
+    "https://tripxl.com/blog/wp-content/uploads/2024/09/Archaeological-Dept-Museum.jpg"
+  ],
+  "iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3668.2785411516916!2d79.97967179999999!3d23.160031899999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3981ae9dcbdf9be9%3A0x38e504818d7cf6a4!2sARCHAEOLOGY%20DEPT%20MUSEUM!5e0!3m2!1sen!2sin!4v1733485964892!5m2!1sen!2sin\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>"
+},
   {
       "agencyName": "Shivpuri Agency",
       "MonumentName": "Shivpuri Museum",
