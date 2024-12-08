@@ -1,0 +1,78 @@
+[2024-12-06 21:02:31] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:31] Failed: Bad Request
+[2024-12-06 21:02:32] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:32] Failed: Bad Request
+[2024-12-06 21:02:34] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:34] Failed: Bad Request
+[2024-12-06 21:02:35] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:35] Failed: Bad Request
+[2024-12-https://meet.google.com/dju-zwws-zur06 21:02:37] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:37] Failed: Bad Request
+[2024-12-06 21:02:38] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:38] Failed: Bad Request
+[2024-12-06 21:02:39] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:39] Failed: Bad Request
+[2024-12-06 21:02:41] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:41] Failed: Bad Request
+[2024-12-06 21:02:42] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:42] Failed: Bad Request
+[2024-12-06 21:02:44] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:44] Failed: Bad Request
+[2024-12-06 21:02:45] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:45] Failed: Bad Request
+[2024-12-06 21:02:46] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:46] Failed: Bad Request
+[2024-12-06 21:02:48] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:48] Failed: Bad Request
+[2024-12-06 21:02:49] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:49] Failed: Bad Request
+[2024-12-06 21:02:51] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:51] Failed: Bad Request
+[2024-12-06 21:02:52] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:52] Failed: Bad Request
+[2024-12-06 21:02:53] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:53] Failed: Bad Request
+[2024-12-06 21:02:55] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:55] Failed: Bad Request
+[2024-12-06 21:02:56] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:56] Failed: Bad Request
+[2024-12-06 21:02:58] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:58] Failed: Bad Request
+[2024-12-06 21:02:59] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:02:59] Failed: Bad Request
+[2024-12-06 21:03:00] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:03:00] Failed: Bad Request
+[2024-12-06 21:03:02] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:03:02] Failed: Bad Request
+[2024-12-06 21:03:03] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:03:03] Failed: Bad Request
+[2024-12-06 21:03:04] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:03:04] Failed: Bad Request
+[2024-12-06 21:03:06] Upload attempt:
+HTTP Status: 400
+[2024-12-06 21:03:06] Failed: Bad Request
